@@ -64,12 +64,10 @@ print(Triangle.objectCount())      # 2
 ## 📂 Structure
 
 
-Triangle_class
-        Class.py     
+Triangle_class---> Class.py     
 
 main.py
 
-Uml
-    UML_Triangle.png
+Uml---> UML_Triangle.png
 
 README.md
