@@ -43,12 +43,12 @@ Each side uses the `@property` and setter decorators to ensure that:
 ## 🧪 Example Usage
 
 ```python
-t1 = Triangle(3, 4, 5)
-print(t1.perimeter())              # 12
-print(t1.is_right_angled())        # True
+Tri_1 = Triangle(3, 4, 5)
+print(Tri_1.perimeter())              # 12
+print(Tri_1.is_it_right_angled())        # True
 
-t2 = Triangle(existing_triangle=t1)
-print(t2)                          # Triangle with sides (3, 4, 5)
+Tri_2 = Triangle(existing_triangle=t1)
+print(Tri_2)                          # Triangle with sides (3, 4, 5)
 print(Triangle.objectCount())      # 2
 ```
 
