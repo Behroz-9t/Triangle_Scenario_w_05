@@ -65,7 +65,7 @@ print(Triangle.objectCount())      # 2
 
 
 Triangle_class
-    Class.py     
+        Class.py     
 
 main.py
 
